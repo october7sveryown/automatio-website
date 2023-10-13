@@ -82,12 +82,12 @@ function App() {
             <p>Follow us on 
               <a href=""><FontAwesomeIcon icon={faFacebook}/></a>
               <a href=""><FontAwesomeIcon icon={faXTwitter}/></a>
-              <a href=""><FontAwesomeIcon icon={faLinkedin}/></a>
+              {/* <a href=""><FontAwesomeIcon icon={faLinkedin}/></a> */}
               <a href=""><FontAwesomeIcon icon={faInstagram}/></a>
             </p>
           </div>
           <div className="col-md-6">
-            <p>Call us now - 647-914-2428</p>
+            <p>Call us now: <a href="tel:647-914-2428">647-914-2428<a href="tel:437-313-2772"></a>437-313-2772</a></p>
           </div>
         </div>
         </div>

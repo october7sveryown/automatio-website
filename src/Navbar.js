@@ -17,7 +17,7 @@ function NavBar() {
             <Nav.Link href="#about">About</Nav.Link>
             <Nav.Link href="#contact">Contact</Nav.Link>
           </Nav>
-          <Button variant="outline-dark" className='myButton'>Call us</Button>
+          <Button variant="outline-dark" href="tel:647-914-2428" className='myButton'>Call us</Button>
         </Navbar.Collapse>
       </Container>
     </Navbar>
